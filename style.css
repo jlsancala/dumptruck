@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    justify-content: center;
+ }
+ body {
+    color: bisque;
+  background-image: url("jl.gif");
+  background-size: cover;
+  text-align: center;
+  margin: 10% auto;
+  background-position: center;
+ }
+ footer {
+    color: bisque;
+    margin: 12%;
+    font-size: 150%;
+   }
+   
